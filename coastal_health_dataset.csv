@@ -1,0 +1,740 @@
+Dataset,OMOP Concept ID,Domain,Patient Count,Event Count,Description,Terminology,Source Code,Concept Type,Standard OMOP Concept,Mental Disability,Physical Issues,County,Healthcare Facility Type
+CPRD AURUM,23034,Condition,18434,20788,Neonatal hypoglycemia,SNOMED,52767006,Standard,23034.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,73019,Condition,514,595,Breast engorgement in newborn,SNOMED,34831003,Standard,73019.0,No,Yes,Tana River,Health Center
+CPRD AURUM,73297,Condition,210,246,Resolving infantile idiopathic scoliosis,SNOMED,28801006,Standard,73297.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,76221,Condition,994,1145,Neonatal infective mastitis,SNOMED,3468005,Standard,76221.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,81400,Condition,30,74,Neonatal myasthenia gravis,SNOMED,82178003,Standard,81400.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,133594,Condition,1269,1383,Bacterial sepsis of newborn,SNOMED,276669000,Standard,133594.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,137099,Condition,109,163,Neonatal thyrotoxicosis,SNOMED,13795004,Standard,137099.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,138545,Condition,135,310,Progressive infantile idiopathic scoliosis,SNOMED,20980008,Standard,138545.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,141654,Condition,10547,17116,Infantile seborrheic dermatitis,SNOMED,200776003,Source,4249474.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,193323,Condition,78,241,Neonatal diabetes mellitus,SNOMED,49817004,Standard,193323.0,No,Yes,Tana River,Health Center
+CPRD AURUM,198870,Condition,45,48,Transitory ileus of newborn,SNOMED,82368005,Standard,198870.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,200524,Condition,68,93,Disorder of digestive system specific to fetus OR newborn,SNOMED,42357009,Standard,200524.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,201136,Condition,8567,11183,Omphalitis of the newborn,SNOMED,42052009,Standard,201136.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,201675,Condition,299,902,"Polycystic kidney disease, infantile type",SNOMED,28770003,Standard,201675.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,252442,Condition,142,146,Neonatal aspiration of blood,SNOMED,206294001,Standard,252442.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,258866,Condition,51440,59397,Respiratory distress syndrome in the newborn,SNOMED,46775006,Standard,258866.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,318247,Condition,4988,5862,Apnea in the newborn,SNOMED,13094009,Standard,318247.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,319138,Condition,2220,2556,Respiratory condition of fetus OR newborn,SNOMED,17849001,Standard,319138.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,321683,Condition,10725,11807,Transitory tachypnea of newborn,SNOMED,7550008,Standard,321683.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,372423,Condition,245,402,Reduction deformities of brain,SNOMED,204032005,Source,45765628.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,372849,Condition,94,159,Overlapping malignant neoplasm of brain and other parts of the central nervous system,SNOMED,109911004,Standard,372849.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,372887,Condition,10249,20969,Disorder of brain,SNOMED,81308009,Standard,372887.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,373179,Condition,2203,4864,Senile degeneration of brain,SNOMED,45864009,Standard,373179.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,373684,Condition,25,40,Amebic brain abscess,SNOMED,27908001,Standard,373684.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,373724,Condition,1342,2839,Neoplasm of brain,SNOMED,126952004,Standard,373724.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,373770,Condition,1139,1404,"Infantile, juvenile and presenile cataracts",SNOMED,193571008,Source,375545.0,No,Yes,Tana River,Health Center
+CPRD AURUM,373870,Condition,250,308,Neonatal dacryocystitis and conjunctivitis,SNOMED,206345004,Standard,373870.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,374336,Condition,2288,5832,Infantile hemiplegia,SNOMED,1593000,Standard,374336.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,374748,Condition,2035,2950,Perinatal anoxic-ischemic brain injury,SNOMED,126945001,Standard,374748.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,374853,Condition,25,30,Tuberculous abscess of brain,SNOMED,186217006,Standard,374853.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,375239,Condition,1049,3307,Degenerative brain disorder,SNOMED,52522001,Standard,375239.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,375732,Condition,271,575,Tuberculoma of brain,SNOMED,416265003,Standard,375732.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,377085,Condition,191,313,Congenital anomaly of brain,SNOMED,57148006,Standard,377085.0,No,Yes,Lamu,Health Center
+CPRD AURUM,377550,Condition,37,40,Compression of brain,SNOMED,46963008,Standard,377550.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,378087,Condition,1220,3252,Secondary malignant neoplasm of brain and spinal cord,SNOMED,188462001,Standard,378087.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,379769,Condition,1794,5379,Benign neoplasm of brain,SNOMED,92030004,Standard,379769.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,380533,Condition,8204,11324,Convulsions in the newborn,SNOMED,87476004,Standard,380533.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,432443,Condition,47,50,Disseminated intravascular coagulation in newborn,SNOMED,34417008,Standard,432443.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,432729,Condition,52116,66363,Crying infant,SNOMED,162214009,Standard,432729.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,432734,Condition,363,410,Fetal OR neonatal hemorrhage,SNOMED,111467008,Standard,432734.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,433018,Condition,86,88,Fetal or neonatal effect of prolapsed cord,SNOMED,206087008,Standard,433018.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,433027,Condition,359,394,Fetal or neonatal effect of maternal hypertensive disease,SNOMED,268794002,Standard,433027.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,433315,Observation,9232,11667,Feeding problems in newborn,SNOMED,72552008,Standard,433315.0,No,Yes,Tana River,Health Center
+CPRD AURUM,433589,Condition,43,49,Neonatal aspiration of amniotic fluid,SNOMED,276540001,Standard,433589.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,433603,Condition,1926,2258,Hemolytic disease of fetus OR newborn due to RhD isoimmunization,SNOMED,86986002,Standard,433603.0,No,Yes,Tana River,Health Center
+CPRD AURUM,433604,Condition,89,89,Transient neonatal disorder of coagulation,SNOMED,32605001,Standard,433604.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,434012,Condition,4991,7651,Developmental dyslexia,SNOMED,192138007,Standard,434012.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,434154,Condition,77,88,Neonatal aspiration syndromes,SNOMED,276533002,Standard,434154.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,434155,Condition,171,201,"Intraventricular (nontraumatic) hemorrhage, grade 3, of fetus and newborn",SNOMED,206397006,Standard,434155.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,434309,Condition,1073,2255,Precocious sexual development,SNOMED,123527003,Source,4267558.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,434474,Condition,154,190,Late metabolic acidosis of newborn,SNOMED,9635004,Standard,434474.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,434480,Condition,564,629,Syndrome of infant of diabetic mother,SNOMED,21584002,Standard,434480.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,434744,Condition,274,331,Fetal or neonatal effect of maternal medical problem,SNOMED,206002004,Standard,434744.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,434972,Condition,247,273,Developmental abnormality of tooth size and form,SNOMED,266415009,Standard,434972.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,435076,Condition,684,1612,Transient neonatal thrombocytopenia,SNOMED,23205009,Standard,435076.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,435232,Condition,65312,89197,Disorder of speech and language development,SNOMED,268672004,Standard,435232.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,435244,Condition,73463,142997,Developmental disorder,SNOMED,5294002,Standard,435244.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,435358,Condition,1140,1289,Hemorrhagic disease of the newborn due to vitamin K deficiency,SNOMED,12546009,Standard,435358.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,435369,Condition,1462,1700,"Fetal distress, in liveborn infant",SNOMED,90562004,Standard,435369.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,435656,Condition,66865,77388,Neonatal jaundice,SNOMED,387712008,Standard,435656.0,No,Yes,Lamu,Health Center
+CPRD AURUM,435775,Condition,121,176,Genetic anomaly of leukocyte,SNOMED,47986005,Standard,435775.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,435927,Condition,125,149,Fetal or neonatal effect of complication of labor and/or delivery,SNOMED,76012002,Standard,435927.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,435937,Condition,4413,5186,Sudden infant death syndrome,SNOMED,51178009,Standard,435937.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,436077,Condition,15545,25212,Developmental delay,SNOMED,248290002,Standard,436077.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,436219,Condition,154,175,Fetal or neonatal effect of maternal infection,SNOMED,206005002,Standard,436219.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,436373,Condition,9302,12393,Developmental speech disorder,SNOMED,1145003,Standard,436373.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,436529,Condition,115,163,Hemorrhage of newborn,SNOMED,85539001,Standard,436529.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,436534,Condition,4049,4483,Hypothermia of newborn,SNOMED,13629008,Standard,436534.0,No,Yes,Lamu,Health Center
+CPRD AURUM,437090,Condition,854,947,Hemolytic disease of fetus OR newborn due to ABO immunization,SNOMED,32858009,Standard,437090.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,437092,Condition,439,769,Physiological development failure,SNOMED,274626005,Standard,437092.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,437261,Condition,138,182,Hyperkinesis with developmental delay,SNOMED,192131001,Standard,437261.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,437316,Condition,37,39,Non-odontogenic developmental cyst of jaw,SNOMED,196452003,Standard,437316.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,437902,Condition,1853,2108,Tooth development and eruption disorder,SNOMED,266413002,Source,4122116.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,437985,Condition,31,32,Disturbance of temperature regulation of newborn,SNOMED,68550008,Standard,437985.0,No,Yes,Lamu,Health Center
+CPRD AURUM,439128,Condition,392,481,Extreme prematurity of infant,SNOMED,276658003,Standard,439128.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,439137,Condition,1054,1221,Neonatal jaundice due to delayed conjugation,SNOMED,17140000,Standard,439137.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,439140,Condition,1600,1791,Neonatal polycythemia,SNOMED,32984002,Standard,439140.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,439149,Condition,70,79,Transient neonatal neutropenia,SNOMED,55444004,Standard,439149.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,439702,Condition,22,40,Residual infantile autism,SNOMED,191690004,Standard,439702.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,439703,Condition,158,391,Active infantile autism,SNOMED,191689008,Standard,439703.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,440203,Condition,185,212,Fetal or neonatal effect of condition of umbilical cord,SNOMED,81402009,Standard,440203.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,440218,Condition,2488,3632,Hemolytic disease of fetus OR newborn due to isoimmunization,SNOMED,387705004,Standard,440218.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,440840,Condition,23927,35346,Neonatal candidiasis,SNOMED,414821002,Standard,440840.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,440847,Condition,6478,7324,Neonatal jaundice associated with preterm delivery,SNOMED,73749009,Standard,440847.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,441274,Condition,1441,1728,Developmental expressive language disorder,SNOMED,268734000,Standard,441274.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,441544,Condition,160,1212,Specific nonpsychotic mental disorders following organic brain damage,SNOMED,192069009,Standard,441544.0,No,Yes,Lamu,Health Center
+CPRD AURUM,443361,Condition,4443,6189,Developmental language disorder,SNOMED,280032002,Standard,443361.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,443588,Condition,12766,58559,Malignant neoplasm of brain,SNOMED,428061005,Standard,443588.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,506621,Procedure,44,45,Mild cognitive impairment annual review,SNOMED,1.05E+15,Standard,506621.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,506751,Observation,1450,1921,Provision of information about infant safe sleeping,SNOMED,1.05E+15,Standard,506751.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,586310,Measurement,85711,134215,Measurement of Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Genetic material using Molecular method,OMOP Extension,OMOP4912985,Standard,586310.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,3531539,Procedure,43,43,Other specified major excision of brain tissue,SNOMED,5.43E+14,Source,,No,Yes,Tana River,County Hospital
+CPRD AURUM,3531540,Procedure,43,43,Major excision of brain tissue NOS,SNOMED,5.43E+14,Source,4063526.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,3531811,Procedure,43,43,Other biopsy of lesion of brain tissue,SNOMED,5.47E+14,Source,4045859.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,3535807,Condition,255,265,Newborn physiological jaundice NOS,SNOMED,6.11E+14,Source,4173180.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,3536074,Procedure,107,109,Other operation on brain tissue NOS,SNOMED,6.15E+14,Source,4323283.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,3536953,Procedure,46,87,Other operations on connection from ventricle of brain,SNOMED,6.28E+14,Source,4120973.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,3539861,Condition,36,36,"Newborn cerebral irritability, unspecified",SNOMED,6.71E+14,Source,4171109.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,3540967,Condition,2842,5035,Developmental disorder NOS,SNOMED,6.86E+14,Source,435244.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,3557654,Condition,40,47,Haemolytic disease of foetus and newborn due to isoimmunisation NOS,SNOMED,5.82E+14,Source,440218.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,3558183,Condition,45,46,Other hypothermia of newborn,SNOMED,7.00E+14,Source,436534.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,3582813,Condition,173,365,Brain conditions NOS,SNOMED,5.84E+14,Source,,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,3655953,Condition,25,38,Contusion of hindbrain,SNOMED,870540001,Standard,3655953.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4001336,Condition,93417,113772,Concussion injury of brain,SNOMED,110030002,Standard,4001336.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4005284,Condition,60,70,Fetal or neonatal effect of maternal use of alcohol,SNOMED,205791004,Standard,4005284.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4006277,Condition,4251,5243,Neonatal hypotonia,SNOMED,205294008,Standard,4006277.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4010765,Observation,286,288,Electrical engineer - research/development,SNOMED,159208000,Standard,4010765.0,No,Yes,Kwale,Health Center
+CPRD AURUM,4010769,Observation,83,83,Chemical engineer - research/development,SNOMED,159217000,Standard,4010769.0,No,Yes,Kwale,Health Center
+CPRD AURUM,4011089,Observation,3459,3651,Teacher - infant class,SNOMED,158907006,Standard,4011089.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4011603,Observation,311,313,Mechanical engineer - research/development,SNOMED,159189004,Standard,4011603.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4011607,Observation,74,76,Aeronautical engineer - research/development,SNOMED,159199009,Standard,4011607.0,No,Yes,Kwale,Health Center
+CPRD AURUM,4011616,Condition,4773,6454,Premature development of the breasts,SNOMED,102889008,Standard,4011616.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4012466,Procedure,26340,31653,"Assessment and interpretation of higher cerebral function, cognitive testing",SNOMED,113024001,Standard,4012466.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,4014439,Observation,63720,81213,Infant feeding method,SNOMED,169740003,Standard,4014439.0,No,Yes,Tana River,Health Center
+CPRD AURUM,4014595,Observation,1181,1200,Infant feeding method at 9 months,SNOMED,169990005,Standard,4014595.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,4014608,Observation,4052,5355,Infant milestone,SNOMED,170089007,Standard,4014608.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4014721,Observation,120765,123794,Infant feeding method at 10 days,SNOMED,169966009,Standard,4014721.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4014723,Observation,10009,10210,Infant feeding method at 6 weeks,SNOMED,169971002,Standard,4014723.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4014725,Observation,610,637,Infant feeding method at 6 months,SNOMED,169983000,Standard,4014725.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4014865,Procedure,168971,231952,Child examination: fine motor development,SNOMED,170219006,Standard,4014865.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,4014866,Procedure,92631,146870,Child examination: social development,SNOMED,170220000,Standard,4014866.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4014867,Procedure,121404,152981,Child examination: language development,SNOMED,170221001,Standard,4014867.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4015145,Observation,6393,8045,Infant weaned,SNOMED,169749002,Standard,4015145.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,4015448,Procedure,255094,347780,Child examination: gross motor development,SNOMED,170218003,Standard,4015448.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,4016061,Condition,218,229,High risk infant,SNOMED,169948004,Standard,4016061.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4016066,Observation,849,868,Infant feeding method at 3 months,SNOMED,169977003,Standard,4016066.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4016479,Observation,602,610,Infant feeding method at 1 year,SNOMED,169997008,Standard,4016479.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4016540,Condition,217,489,Focal brain injury,SNOMED,210038008,Standard,4016540.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,4019350,Condition,25,38,Closed hindbrain contusion,SNOMED,209871005,Source,3655953.0,No,Yes,Kwale,Health Center
+CPRD AURUM,4021766,Condition,476,589,"Hypoxia, asphyxia AND/OR other respiratory condition of fetus AND/OR newborn",SNOMED,106012007,Standard,4021766.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4025367,Condition,12951,27645,Genetic finding,SNOMED,106221001,Standard,4025367.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4027604,Condition,33175,68568,Specific developmental disorder,SNOMED,10720004,Source,435244.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,4041276,Condition,44,56,Finding related to development of sexuality,SNOMED,118201000,Standard,4041276.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,4041659,Observation,2322,4056,Finding relating to infant feeding,SNOMED,230126006,Standard,4041659.0,No,Yes,Kwale,Health Center
+CPRD AURUM,4043063,Observation,52,52,Neurodevelopmental techniques,SNOMED,228529001,Standard,4043063.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4043071,Procedure,58067,106103,Cognitive and behavioral therapy,SNOMED,228557008,Standard,4043071.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,4043414,Condition,177,410,Early infantile epileptic encephalopathy with suppression bursts,SNOMED,230429005,Standard,4043414.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,4045461,Procedure,893,1014,External drainage procedure from ventricle of brain,SNOMED,230869001,Standard,4045461.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,4045858,Procedure,45,49,Focal excision of brain abscess,SNOMED,230838000,Standard,4045858.0,No,Yes,Kwale,Health Center
+CPRD AURUM,4045859,Procedure,1670,2444,Biopsy of brain tissue,SNOMED,230842002,Standard,4045859.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4046034,Observation,42,43,Newborn,SNOMED,133933007,Standard,4046034.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,4046932,Procedure,632,2072,Deep brain stimulation,SNOMED,230861003,Standard,4046932.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,4047110,Condition,149,352,Language-related cognitive disorder,SNOMED,229676007,Standard,4047110.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4047587,Condition,46,56,Fetal or neonatal effect of placental or breast transfer of narcotics,SNOMED,206017000,Standard,4047587.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,4047593,Condition,68,69,Fetal or neonatal effect of external version before labor,SNOMED,206055005,Standard,4047593.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4047718,Condition,8745,9305,Fetal or neonatal effect of forceps delivery,SNOMED,206121009,Standard,4047718.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4047719,Condition,3594,3845,Fetal or neonatal effect of vacuum extraction delivery,SNOMED,206122002,Standard,4047719.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4047723,Condition,30,32,Fetal or neonatal effect of instrumental delivery,SNOMED,206149002,Standard,4047723.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,4047732,Condition,212,262,Cerebral hematoma in fetus or newborn,SNOMED,206194008,Standard,4047732.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,4047878,Condition,95,99,Fetal or neonatal effect of maternal problem unrelated to pregnancy,SNOMED,206001006,Standard,4047878.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,4047937,Condition,780,2396,Neonatal urinary tract infection,SNOMED,12301009,Standard,4047937.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,4047992,Condition,258,282,Fetal or neonatal effect of breech presentation before labor,SNOMED,206054009,Standard,4047992.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,4048002,Condition,88,92,Fetal or neonatal effect of umbilical cord around neck,SNOMED,206089006,Standard,4048002.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4048133,Condition,20,33,Extradural hemorrhage in fetus or newborn,SNOMED,206195009,Standard,4048133.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,4048150,Condition,78,97,Neonatal aspiration of milk and regurgitated food,SNOMED,206296004,Standard,4048150.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4048277,Condition,173,189,"Intraventricular (nontraumatic) hemorrhage, grade 1, of fetus and newborn",SNOMED,206395003,Standard,4048277.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,4048278,Condition,313,363,"Intraventricular (nontraumatic) hemorrhage, grade 2, of fetus and newborn",SNOMED,206396002,Standard,4048278.0,No,Yes,Kwale,Health Center
+CPRD AURUM,4048290,Condition,253,316,Neonatal jaundice due to glucose-6-phosphate dehydrogenase deficiency,SNOMED,206439006,Standard,4048290.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4048457,Condition,33,35,Aspiration of vomit in newborn,SNOMED,206295000,Standard,4048457.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4048594,Condition,180,217,Sepsis of newborn due to Staphylococcus aureus,SNOMED,206378006,Standard,4048594.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,4048603,Condition,32,34,Neonatal vaginal hemorrhage,SNOMED,206409001,Standard,4048603.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4048608,Condition,41,46,Neonatal melena,SNOMED,206424005,Standard,4048608.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,4048614,Condition,25,29,Neonatal jaundice with Gilbert's syndrome,SNOMED,206456003,Standard,4048614.0,No,Yes,Tana River,Health Center
+CPRD AURUM,4048620,Condition,161,185,Transitory neonatal hypernatremia,SNOMED,206489003,Standard,4048620.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,4048751,Condition,312,365,Neonatal skin infection,SNOMED,206554002,Standard,4048751.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,4048755,Condition,1493,1788,Neonatal withdrawal symptoms from maternal use of drugs of addiction,SNOMED,206572008,Standard,4048755.0,No,Yes,Tana River,Health Center
+CPRD AURUM,4048926,Condition,318,346,Transitory neonatal hyponatremia,SNOMED,206490007,Standard,4048926.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4048927,Condition,30,34,Transitory neonatal hypokalemia,SNOMED,206492004,Standard,4048927.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,4048938,Procedure,162,169,Removal of shunt tubing from ventricle of brain,SNOMED,230879004,Standard,4048938.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,4049028,Condition,29,34,Transient neonatal thrombocytopenia due to idiopathic maternal thrombocytopenia,SNOMED,206511007,Standard,4049028.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,4049041,Observation,2420,2640,Overfeeding in newborn,SNOMED,206567004,Standard,4049041.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,4049042,Condition,36,37,Newborn drug reaction and intoxication,SNOMED,206570000,Standard,4049042.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4049043,Condition,150,233,Neonatal cerebral ischemia,SNOMED,206576006,Standard,4049043.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,4051007,Condition,3323,4313,Normal growth and development for age,SNOMED,23397005,Standard,4051007.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4051266,Observation,3391,3940,FH: Sudden infant death,SNOMED,160471004,Standard,4051266.0,No,Yes,Kwale,Health Center
+CPRD AURUM,4058316,Procedure,46,46,Fluoroscopy - brain,SNOMED,168997003,Standard,4058316.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4058459,Procedure,443,527,Isotope static scan brain,SNOMED,169139005,Standard,4058459.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4058464,Procedure,894,1061,Isotope brain angiography,SNOMED,169161000,Standard,4058464.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4059000,Observation,72858,113409,Infant feeding problem,SNOMED,161838002,Standard,4059000.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,4059646,Observation,1543,1839,Sudden infant death,SNOMED,160957000,Standard,4059646.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4060196,Observation,11392,13542,H/O: infant breast fed,SNOMED,161768001,Standard,4060196.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4060197,Observation,8299,9915,History of being infant bottle fed,SNOMED,161769009,Standard,4060197.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4060502,Procedure,186,187,Stereotactic/stereoscopic test - brain,SNOMED,169086006,Standard,4060502.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4060747,Procedure,44,44,Radiotherapy: infuse skull/brain,SNOMED,169350000,Standard,4060747.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4060980,Condition,10339,12289,On examination - physiological development normal,SNOMED,162843006,Standard,4060980.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4061132,Procedure,4292,4690,US brain scan,SNOMED,169237004,Standard,4061132.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4061884,Condition,5403,7675,O/E -physiological development,SNOMED,162842001,Standard,4061884.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,4062356,Procedure,92048,168397,Infant feeding education,SNOMED,171053005,Standard,4062356.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4062868,Procedure,213,254,Open biopsy of lesion of temporal lobe of brain,SNOMED,171464004,Standard,4062868.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4062869,Procedure,46,48,Open biopsy of lesion of parietal lobe of brain,SNOMED,171465003,Standard,4062869.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,4062876,Procedure,635,1010,Stereotactic biopsy of brain,SNOMED,171491002,Standard,4062876.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,4062878,Procedure,227,486,Maintenance of neurostimulator in brain,SNOMED,171495006,Standard,4062878.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4062879,Procedure,44,44,Removal of neurostimulator electrode from brain tissue,SNOMED,171496007,Standard,4062879.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,4062974,Procedure,295,420,Drainage of subarachnoid space of brain,SNOMED,171554006,Standard,4062974.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,4063526,Procedure,492,666,Major excision of brain tissue,SNOMED,171442008,Standard,4063526.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4063531,Procedure,228,230,Evacuation of hematoma from temporal lobe of brain,SNOMED,171473007,Standard,4063531.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,4063537,Procedure,113,280,Aspiration of brain hematoma,SNOMED,171502001,Standard,4063537.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4063539,Procedure,65,191,Brain cerebrospinal fluid pathway operation,SNOMED,171509005,Standard,4063539.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4063540,Procedure,1108,2303,Creation of connection from ventricle of brain,SNOMED,171510000,Standard,4063540.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,4063640,Procedure,142,269,Operation on subarachnoid space of brain,SNOMED,171553000,Standard,4063640.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,4063992,Procedure,42,42,Extirpation of lesion of meninges of brain cortex,SNOMED,171693007,Standard,4063992.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4064379,Measurement,510,806,Child developmental handicap screening,SNOMED,171211000,Standard,4064379.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,4064639,Procedure,273,330,Total lobectomy of brain,SNOMED,171443003,Standard,4064639.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4064641,Procedure,624,1081,Excision of lesion of frontal lobe of brain,SNOMED,171447002,Standard,4064641.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,4064642,Procedure,822,1949,Excision of lesion of temporal lobe of brain,SNOMED,171448007,Standard,4064642.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,4064643,Procedure,458,521,Excision of lesion of parietal lobe of brain,SNOMED,171449004,Standard,4064643.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,4064644,Procedure,192,236,Excision of lesion of occipital lobe of brain,SNOMED,171450004,Standard,4064644.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4064645,Procedure,406,701,Stereotactic ablation of brain tissue,SNOMED,171454008,Standard,4064645.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4064651,Procedure,602,812,Drainage of lesion of brain tissue,SNOMED,171471009,Standard,4064651.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4064652,Procedure,367,417,Drainage of abscess of brain tissue,SNOMED,171472002,Standard,4064652.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4064724,Condition,144,219,Abnormal chromosomal and genetic finding on antenatal screening of mother,SNOMED,199738000,Standard,4064724.0,No,Yes,Kwale,Health Center
+CPRD AURUM,4065161,Procedure,1542,3574,Excision of lesion of brain tissue,SNOMED,171446006,Standard,4065161.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4065166,Procedure,150,169,Open biopsy of lesion of brain tissue,SNOMED,171462000,Standard,4065166.0,No,Yes,Tana River,Health Center
+CPRD AURUM,4065167,Procedure,140,222,Open biopsy of lesion of frontal lobe of brain,SNOMED,171463005,Standard,4065167.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,4065183,Procedure,55,55,Ventriculoscopic exploration of ventricle of brain,SNOMED,171543001,Standard,4065183.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4066197,Procedure,222,473,Removal of lesion of brain meninges,SNOMED,171692002,Standard,4066197.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,4066198,Procedure,97,140,Extirpation of lesion of meninges of parasagittal region of brain,SNOMED,171696004,Standard,4066198.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4066562,Procedure,87,88,Diagnostic endoscopic examination of ventricle of brain and biopsy of lesion of ventricle of brain,SNOMED,171544007,Standard,4066562.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4066563,Procedure,350,397,Ventriculography of brain,SNOMED,171549002,Standard,4066563.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4066564,Observation,118,156,Monitoring of pressure in ventricle of brain,SNOMED,171550002,Standard,4066564.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,4066686,Procedure,86,209,Extirpation of lesion of meninges of subfrontal region of brain,SNOMED,171695000,Standard,4066686.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,4068108,Condition,39,61,Defective development of the cauda equina,SNOMED,204080008,Source,3655374.0,No,Yes,Tana River,Health Center
+CPRD AURUM,4069690,Observation,93,109,Class in prenatal exercises,SNOMED,17566005,Standard,4069690.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4070405,Condition,56,72,Fetal or neonatal effect of poison transferred via placenta or breast,SNOMED,206014007,Source,4213100.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4070410,Condition,252,310,Fetal or neonatal effect of placenta previa,SNOMED,206065004,Standard,4070410.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,4070411,Condition,240,299,Fetal or neonatal effect of twin-to-twin transplacental transfusion,SNOMED,206083007,Standard,4070411.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,4070415,Condition,118,126,Fetal or neonatal effect of chorioamnionitis,SNOMED,206102001,Standard,4070415.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,4070421,Condition,140,156,Fetal or neonatal effect of maternal anesthetic and analgesic agents during labor and delivery,SNOMED,206124001,Standard,4070421.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,4070423,Condition,23,24,Fetal or neonatal effect of maternal pethidine during labor and delivery,SNOMED,206130001,Standard,4070423.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4070424,Condition,169,178,Fetal or neonatal effect of precipitate delivery,SNOMED,206134005,Standard,4070424.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4070648,Condition,896,1037,Neonatal candidiasis of perineum,SNOMED,206356004,Standard,4070648.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,4071063,Condition,6591,7388,Sepsis of the newborn,SNOMED,206376005,Standard,4071063.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,4071070,Condition,166,207,Neonatal hematemesis,SNOMED,206423004,Standard,4071070.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4071073,Condition,106,345,Late anemia of newborn due to isoimmunization,SNOMED,206434001,Standard,4071073.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,4071079,Condition,34,43,Neonatal jaundice with congenital hypothyroidism,SNOMED,206457007,Standard,4071079.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4071080,Condition,22,24,Neonatal jaundice with porphyria,SNOMED,206458002,Standard,4071080.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,4071192,Condition,26,27,Transitory metabolic disturbance in infant of pre-diabetic mother,SNOMED,206506005,Standard,4071192.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,4071202,Condition,429,516,Neonatal hypertension,SNOMED,206596003,Standard,4071202.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4071477,Condition,29,32,Fetal or neonatal effect of placental insufficiency,SNOMED,206079007,Standard,4071477.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,4071480,Condition,125,138,Fetal or neonatal effect of placental transfusion syndrome,SNOMED,206082002,Standard,4071480.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,4071481,Condition,29,35,Fetal or neonatal effect of fetomaternal transplacental transfusion,SNOMED,206084001,Standard,4071481.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,4071484,Condition,27,29,Fetal or neonatal effect of disproportion during labor and delivery,SNOMED,206118007,Standard,4071484.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,4071485,Condition,19675,21949,Fetal or neonatal effect of cesarean section,SNOMED,206123007,Standard,4071485.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,4071489,Condition,694,746,Fetal or neonatal effect of induction of labor,SNOMED,206146009,Standard,4071489.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4071721,Condition,47,64,Neonatal acrocyanosis,SNOMED,206324006,Standard,4071721.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,4071727,Condition,114,130,Sepsis of newborn due to Escherichia coli,SNOMED,206379003,Standard,4071727.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,4071732,Condition,91,118,Intracranial nontraumatic hemorrhage of fetus and newborn,SNOMED,206417009,Standard,4071732.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,4071744,Condition,35,37,Transitory neonatal hyperkalemia,SNOMED,206491006,Standard,4071744.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,4071863,Observation,83,86,Underfeeding in newborn,SNOMED,206566008,Standard,4071863.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4071866,Condition,63,70,Withdrawal symptoms from therapeutic use of drugs in newborn,SNOMED,206573003,Standard,4071866.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,4071867,Condition,116,172,Neonatal cerebral leukomalacia,SNOMED,206578007,Standard,4071867.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,4074200,Condition,30,31,Normal physiological development,SNOMED,224959009,Standard,4074200.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4075828,Condition,21778,38708,Global developmental delay,SNOMED,224958001,Standard,4075828.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4077047,Condition,3522,4495,Motor development - child,SNOMED,275820009,Standard,4077047.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4077351,Observation,527,1013,H/O: brain disorder,SNOMED,275540007,Standard,4077351.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,4079843,Observation,12579,17304,Newborn death,SNOMED,276506001,Standard,4079843.0,No,Yes,Kwale,Health Center
+CPRD AURUM,4079860,Condition,998,1294,Umbilical polyp of newborn,SNOMED,276618000,Standard,4079860.0,No,Yes,Kwale,Health Center
+CPRD AURUM,4079938,Procedure,5469,8105,Psychotherapy - cognitive,SNOMED,183383008,Standard,4079938.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4081424,Observation,427,474,Private referral to geneticist,SNOMED,183913007,Standard,4081424.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,4082706,Procedure,654,657,MRI of brain with functional imaging,SNOMED,241603006,Standard,4082706.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4083321,Condition,126,162,Infantile cortical hyperostosis,SNOMED,24752008,Standard,4083321.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4084947,Condition,408,514,Neonatal chlamydial conjunctivitis,SNOMED,240591000,Standard,4084947.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,4085018,Observation,2610,3507,Referral to developmental clinic,SNOMED,183857005,Standard,4085018.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4085156,Condition,55280,176292,Developmental academic disorder,SNOMED,1855002,Standard,4085156.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,4085168,Observation,49,49,Child development - call deleted,SNOMED,185572000,Standard,4085168.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4085169,Observation,170,172,Child development - second default recall,SNOMED,185574004,Standard,4085169.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4085448,Procedure,188,189,US scan of neonatal hip,SNOMED,241503003,Standard,4085448.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4085952,Observation,4628,4776,Child development check - second call,SNOMED,185570008,Standard,4085952.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,4085953,Observation,2297,2333,Child development - first default recall,SNOMED,185573005,Standard,4085953.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,4086977,Condition,285,620,General physical development,SNOMED,248289006,Standard,4086977.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,4087483,Observation,462,756,General development,SNOMED,248288003,Standard,4087483.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4087744,Procedure,44,46,Removal of foreign body from brain,SNOMED,1868005,Standard,4087744.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4088726,Observation,23744,27435,Child development check - first call,SNOMED,185569007,Standard,4088726.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,4088728,Observation,1211,1267,Child development check - third call,SNOMED,185571007,Standard,4088728.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4088729,Observation,32,32,Child development - recall deleted,SNOMED,185576002,Standard,4088729.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4088896,Observation,12296,18748,Seen in developmental clinic,SNOMED,185183004,Standard,4088896.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4089207,Observation,111,121,Child development - third default recall,SNOMED,185575003,Standard,4089207.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4090612,Observation,555,1349,Developmental skill and ability,SNOMED,280125009,Standard,4090612.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4091736,Procedure,2080,2332,Auditory brainstem electric response audiometry,SNOMED,252616000,Standard,4091736.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4092225,Condition,84,102,Developmental receptive language disorder,SNOMED,187921002,Standard,4092225.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,4092490,Condition,16381,50315,Child developmental finding,SNOMED,251803000,Standard,4092490.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4093772,Condition,308,636,Brain stem compression,SNOMED,25816005,Standard,4093772.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,4093950,Condition,85,154,"Benign neoplasm of brain, supratentorial",SNOMED,189162003,Standard,4093950.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,4094033,Procedure,113174,151916,Child development checks,SNOMED,281010000,Standard,4094033.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4094118,Condition,32,79,"Neoplasm of uncertain or unknown behavior of brain, supratentorial",SNOMED,189487001,Standard,4094118.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4094176,Measurement,82,284,Health of the Nation Outcome Scale item 4 - cognitive problems,SNOMED,281118009,Standard,4094176.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,4096616,Condition,685,1730,Diffuse brain injury,SNOMED,262693007,Standard,4096616.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4101126,Condition,33,39,Acquired neutropenia in newborn,SNOMED,191345000,Standard,4101126.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,4101139,Condition,415,1203,Chronic alcoholic brain syndrome,SNOMED,191475009,Standard,4101139.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,4101899,Condition,142,439,Congenital and developmental myasthenia,SNOMED,193216006,Source,4046356.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4102986,Condition,731,1296,Disorder of psychological development,SNOMED,192562009,Standard,4102986.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,4103560,Condition,242,282,Non-organic infant feeding disturbance,SNOMED,192016008,Standard,4103560.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,4105188,Condition,2704,6231,Mixed disorder of psychological development,SNOMED,192147004,Standard,4105188.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,4105353,Condition,119,320,Multiple sclerosis of the brainstem,SNOMED,192926004,Standard,4105353.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4105925,Procedure,46136,52688,MRI of brain and brain stem,SNOMED,29567006,Standard,4105925.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4107911,Condition,31,37,Infantile myotonia,SNOMED,193238008,Standard,4107911.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4108701,Procedure,2315,2537,Neonatal exchange transfusion,SNOMED,180202002,Standard,4108701.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,4108899,Condition,193,251,Developmental ovarian cyst,SNOMED,253821006,Source,4108900.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,4111710,Condition,2394,6667,Brainstem stroke syndrome,SNOMED,195212005,Standard,4111710.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4112701,Procedure,358044,2139614,Prenatal examination and care of mother,SNOMED,18114009,Standard,4112701.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,4114490,Procedure,171,777,Generic cognitive behavioral therapy,SNOMED,302230009,Standard,4114490.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4114528,Observation,102,114,Neonatal,SNOMED,255407002,Standard,4114528.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4114614,Procedure,41,41,Cognitive skills training,SNOMED,302259009,Standard,4114614.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,4118054,Condition,335,441,Fetal or neonatal effect of maternal complication of pregnancy,SNOMED,206035009,Standard,4118054.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4118056,Condition,90,101,Fetal or neonatal effect of maternal premature rupture of membrane,SNOMED,206037001,Standard,4118056.0,No,Yes,Tana River,Health Center
+CPRD AURUM,4118057,Condition,86,95,Fetal or neonatal effect of maternal oligohydramnios,SNOMED,206038006,Standard,4118057.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,4118058,Condition,28,36,Fetal or neonatal effect of ectopic pregnancy,SNOMED,206040001,Standard,4118058.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4118413,Condition,40,51,Fetal or neonatal effect of twin pregnancy,SNOMED,206048008,Standard,4118413.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4118420,Condition,24,24,Fetal or neonatal effect of tubal ectopic pregnancy,SNOMED,206044005,Standard,4118420.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,4119782,Condition,62,106,Congenital arteriovenous fistula of brain,SNOMED,234149004,Standard,4119782.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,4120670,Procedure,212,343,Drainage of ventricle of brain using Holter valve,SNOMED,303647007,Standard,4120670.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,4120973,Procedure,847,1087,Procedure on brain ventricular shunt,SNOMED,302325008,Standard,4120973.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,4121462,Condition,196,217,Persistent pulmonary hypertension of the newborn,SNOMED,233815004,Standard,4121462.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4121675,Procedure,57888,105905,Cognitive - behavior therapy,SNOMED,304891004,Source,4043071.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4124225,Observation,29,34,Seen by genetic counselor,SNOMED,305623002,Standard,4124225.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4125458,Observation,45,51,Normal infant feeding,SNOMED,289148009,Standard,4125458.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,4125682,Observation,82,108,Seen by geneticist,SNOMED,305674005,Standard,4125682.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4125683,Observation,76,90,Seen by clinical geneticist,SNOMED,305675006,Standard,4125683.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4126074,Condition,167,186,Post-term infant - 42 weeks plus,SNOMED,288270007,Standard,4126074.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,4127583,Observation,21,22,Referral to clinical genetics service,SNOMED,306120009,Standard,4127583.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4127759,Observation,33,37,Referral to clinical geneticist,SNOMED,306279004,Standard,4127759.0,No,Yes,Kwale,Health Center
+CPRD AURUM,4129185,Condition,93,102,Neonatal dacryocystitis,SNOMED,23735003,Standard,4129185.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,4129290,Condition,47,49,Neonatal cerebral hemorrhage,SNOMED,261808007,Standard,4129290.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,4132082,Condition,49,75,Traumatic brain injury with loss of consciousness,SNOMED,127298000,Standard,4132082.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4132083,Condition,79,90,Traumatic brain injury with brief loss of consciousness,SNOMED,127299008,Standard,4132083.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,4132546,Condition,6040,10953,Traumatic brain injury,SNOMED,127295002,Standard,4132546.0,No,Yes,Kwale,Health Center
+CPRD AURUM,4133611,Condition,11637,27496,Traumatic AND/OR non-traumatic brain injury,SNOMED,127294003,Standard,4133611.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,4133715,Condition,404,430,Traumatic brain injury with no loss of consciousness,SNOMED,127302008,Standard,4133715.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,4136449,Observation,3236,3313,Infant feeding at birth,SNOMED,412727007,Standard,4136449.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,4136453,Observation,254,322,Family history of development disorder,SNOMED,412749001,Standard,4136453.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,4136746,Procedure,2274,2451,Automated auditory brainstem response test,SNOMED,413083006,Standard,4136746.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,4138227,Observation,70,84,Seen by clinical genetics service,SNOMED,305815001,Standard,4138227.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4139409,Procedure,91,91,Aspiration of lesion of brain tissue,SNOMED,307291003,Standard,4139409.0,No,Yes,Tana River,Health Center
+CPRD AURUM,4139410,Procedure,148,158,Aspiration of brain abscess,SNOMED,307292005,Standard,4139410.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,4139886,Observation,116,136,Seen by genetics service,SNOMED,305814002,Standard,4139886.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4140071,Condition,6399,8874,Floppy infant syndrome,SNOMED,33010005,Standard,4140071.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,4141403,Condition,539,1936,"Cerebral palsy, not congenital or infantile, acute",SNOMED,307756005,Standard,4141403.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,4141412,Procedure,350,609,Brain ventriculoscopy,SNOMED,307810005,Standard,4141412.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,4141565,Observation,41,46,Referral to genetics service,SNOMED,306119003,Standard,4141565.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,4142089,Procedure,145,153,Therapeutic endoscopic operations on ventricle of brain,SNOMED,265223003,Standard,4142089.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,4142402,Procedure,97,1040,IVF - In vitro fertilization with pre-implantation genetic diagnosis,SNOMED,426417003,Standard,4142402.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4143242,Procedure,53,54,Cognitive behavioral therapy by multidisciplinary team,SNOMED,425680009,Standard,4143242.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4143745,Condition,4241,5569,Neonatal conjunctivitis,SNOMED,34298002,Standard,4143745.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4143987,Procedure,44,46,Excision of lesion of tissue of brain stem,SNOMED,427599009,Standard,4143987.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,4144560,Procedure,132,132,Attention to component of connection from ventricle of brain,SNOMED,265220000,Standard,4144560.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4145312,Procedure,4604,4811,Contrast ventriculography of brain,SNOMED,268434001,Standard,4145312.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,4145317,Observation,419286,495699,Infant bottle fed,SNOMED,268472006,Standard,4145317.0,No,Yes,Kwale,Health Center
+CPRD AURUM,4145739,Procedure,438869,532730,Computerized axial tomography of brain,SNOMED,34227000,Standard,4145739.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4146457,Condition,15893,19551,Infantile viral gastroenteritis,SNOMED,308119005,Standard,4146457.0,No,Yes,Kwale,Health Center
+CPRD AURUM,4146487,Procedure,369,696,Operation on brain ventricle,SNOMED,307546008,Standard,4146487.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4146496,Condition,662,856,Contusion of brain,SNOMED,34663006,Standard,4146496.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4146723,Condition,5543,11533,Developmental aphasia,SNOMED,268673009,Standard,4146723.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4146728,Condition,32,38,Fetal or neonatal effect of malposition or disproportion during labor or delivery,SNOMED,268809007,Standard,4146728.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,4146835,Condition,149361,212824,Infantile colic,SNOMED,35363006,Standard,4146835.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,4146848,Condition,271,351,Neonatal dacryocystitis or conjunctivitis due to chlamydiae,SNOMED,268842008,Standard,4146848.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,4147525,Procedure,552,867,Repair of neonatal diaphragmatic hernia,SNOMED,30273008,Standard,4147525.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,4147874,Condition,23708,30163,Premature infant 28-37 weeks,SNOMED,310661005,Standard,4147874.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,4148091,Condition,19183,28561,Developmental disorder of motor function,SNOMED,268674003,Standard,4148091.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,4148097,Condition,142,160,Fetal or neonatal effect of abruptio placentae,SNOMED,268803008,Standard,4148097.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,4148451,Condition,84,87,Environmentally-induced hyperthermia in newborn,SNOMED,30571006,Standard,4148451.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,4148639,Observation,142,148,Neonatal audiological screening service,SNOMED,310009009,Standard,4148639.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4149384,Measurement,583,741,Mental/developmental handicap screening,SNOMED,268554002,Source,4169641.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,4149523,Condition,4661,8797,Very preterm maturity of infant,SNOMED,268868001,Standard,4149523.0,No,Yes,Tana River,Health Center
+CPRD AURUM,4150101,Procedure,47,50,Genetics service,SNOMED,310048009,Standard,4150101.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4150102,Procedure,42,42,Clinical genetics service,SNOMED,310049001,Standard,4150102.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,4150640,Condition,65954,84525,Snuffles in newborn,SNOMED,271375003,Standard,4150640.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,4150648,Procedure,60,71,Neurostimulation of brain tissue,SNOMED,271406004,Standard,4150648.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4150851,Observation,263,342,Cognitive functions,SNOMED,311465003,Standard,4150851.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,4150930,Condition,1976,2280,Neonatal hypocalcemia,SNOMED,268846006,Standard,4150930.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4152170,Condition,235,254,Fetal or neonatal effect of maternal polyhydramnios,SNOMED,268798004,Standard,4152170.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4153441,Condition,163,173,Fetal or neonatal effect of breech delivery and extraction,SNOMED,268808004,Source,43530903.0,No,Yes,Tana River,Health Center
+CPRD AURUM,4153443,Condition,26,30,Fetal or neonatal effect of abnormal uterine contractions,SNOMED,268811003,Standard,4153443.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,4153444,Condition,64,83,Fetal or neonatal effect of uterine inertia or dysfunction,SNOMED,268812005,Standard,4153444.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4153454,Condition,80,82,Aspiration of liquor or mucus in newborn,SNOMED,268832006,Standard,4153454.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,4153574,Condition,212,279,Neonatal diarrhea,SNOMED,268850004,Standard,4153574.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,4154619,Procedure,346169,582005,Child examination: development,SNOMED,271404001,Standard,4154619.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4156962,Procedure,42,42,Dynamic non-imaging isotope study: brain,SNOMED,271455008,Standard,4156962.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,4157259,Measurement,45,51,Denver developmental subscale - gross motor,SNOMED,273396001,Standard,4157259.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4157260,Measurement,44,50,Denver developmental subscale - personal/social,SNOMED,273398000,Standard,4157260.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,4159157,Condition,223,282,Disorder of tooth development,SNOMED,371136004,Standard,4159157.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4159563,Measurement,48,70,Denver development scale screening test,SNOMED,273400001,Standard,4159563.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,4162723,Condition,612,873,Cognitive function finding,SNOMED,373930000,Standard,4162723.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,4164827,Measurement,44,50,Denver developmental subscale - language,SNOMED,273397005,Standard,4164827.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,4165529,Condition,282,1037,"Coloboma, heart malformation, choanal atresia, retardation of growth and development, genital abnormalities, and ear malformations association",SNOMED,47535005,Standard,4165529.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,4166056,Condition,23,32,Celiac infantilism,SNOMED,45259000,Source,194992.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,4167206,Condition,128716,141526,Magnetic resonance imaging of brain normal,SNOMED,416318006,Standard,4167206.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,4167752,Measurement,44,50,Denver developmental subscale - fine motor/adaptive,SNOMED,273399008,Standard,4167752.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4168318,Condition,14046,21246,Genetic disorder carrier,SNOMED,47461006,Standard,4168318.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,4169488,Measurement,99,103,Test of language development 2,SNOMED,273871008,Standard,4169488.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4169641,Measurement,660,849,Developmental handicap screening,SNOMED,275976000,Standard,4169641.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4169915,Condition,1286,1742,Vomiting in newborn,SNOMED,48000002,Standard,4169915.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4170445,Condition,36,38,Neonatal jaundice due to deficiency of enzyme system for bilirubin conjugation,SNOMED,275360003,Standard,4170445.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4170869,Condition,35,38,Dehydration fever in newborn,SNOMED,49513005,Standard,4170869.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,4170971,Observation,22,37,Perinatal and neonatal death,SNOMED,276503009,Standard,4170971.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,4171095,Condition,78,103,Prolonged newborn physiological jaundice,SNOMED,276550000,Standard,4171095.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,4171115,Condition,6767,7832,Low birth weight infant,SNOMED,276610007,Standard,4171115.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4171250,Condition,59,69,Neonatal viral conjunctivitis,SNOMED,276682008,Standard,4171250.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,4171358,Observation,328,360,Slow feeding in newborn,SNOMED,49415001,Standard,4171358.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,4171420,Observation,2212,2277,FH: Brain disorder,SNOMED,275940001,Standard,4171420.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,4172307,Condition,8331,10025,Neonatal acne,SNOMED,49706007,Standard,4172307.0,No,Yes,Tana River,Health Center
+CPRD AURUM,4172710,Measurement,787,893,Infant length,SNOMED,276351002,Standard,4172710.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4172864,Condition,150,176,Neonatal cardiac failure,SNOMED,276514007,Standard,4172864.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,4172865,Condition,128,134,Transient myocardial ischemia of newborn,SNOMED,276517000,Standard,4172865.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,4172867,Condition,276,293,Neonatal hypotension,SNOMED,276519002,Standard,4172867.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,4173002,Condition,31,40,Perinatal disorder of growth and/or development,SNOMED,276603001,Standard,4173002.0,No,Yes,Tana River,Health Center
+CPRD AURUM,4173168,Observation,148,205,Late neonatal death,SNOMED,276505002,Standard,4173168.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4173170,Condition,83,90,Neonatal dysrhythmia,SNOMED,276513001,Standard,4173170.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4173175,Condition,22,26,Newborn thermal injury,SNOMED,276528001,Standard,4173175.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,4173178,Condition,67,70,Neonatal aspiration of mucus,SNOMED,276541002,Standard,4173178.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4173180,Condition,16455,18260,Newborn physiological jaundice,SNOMED,276549000,Standard,4173180.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4173186,Condition,24,27,Iatrogenic neonatal hypoglycemia,SNOMED,276562001,Standard,4173186.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4173323,Condition,388,433,Extremely low birth weight infant,SNOMED,276612004,Standard,4173323.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,4173347,Observation,24,31,Poor feeding of newborn,SNOMED,276717003,Standard,4173347.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,4173577,Condition,159,209,Kernicterus of newborn,SNOMED,50143004,Standard,4173577.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,4173659,Condition,75,115,"Apraxia, developmental",SNOMED,275271004,Standard,4173659.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,4174302,Condition,196,252,Neonatal infection of the eye,SNOMED,276675009,Standard,4174302.0,No,Yes,Kwale,Health Center
+CPRD AURUM,4178132,Observation,41,155,Infantile fibrosarcoma,SNOMED,52040006,Standard,4178132.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,4180908,Condition,225,1321,Malignant neoplasm of brainstem,SNOMED,363473003,Standard,4180908.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,4182419,Condition,84,312,Late effect of traumatic injury to brain,SNOMED,429656004,Standard,4182419.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,4186720,Condition,1293,1564,Benign neonatal sleep myoclonus,SNOMED,413638006,Standard,4186720.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,4188150,Observation,210,238,History of neonatal abstinence syndrome,SNOMED,414372001,Standard,4188150.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,4190387,Procedure,275,276,Radioisotope brain imaging,SNOMED,41440006,Standard,4190387.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4190557,Observation,412,443,Clinical cytogenetics and molecular genetics,SNOMED,394804000,Standard,4190557.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,4190804,Procedure,92,226,Insertion of auditory implant to brainstem,SNOMED,390781007,Standard,4190804.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,4191702,Procedure,640,721,Cognitive analytic therapy,SNOMED,390773006,Standard,4191702.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4191938,Condition,3582,4093,O/E - Umbilical stump - neonatal,SNOMED,395186008,Standard,4191938.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,4192271,Observation,116,132,Postneonatal death,SNOMED,391100008,Standard,4192271.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,4196362,Procedure,29682,39448,Genetic counseling,SNOMED,79841006,Standard,4196362.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4197188,Observation,22,26,Operation on brain planned,SNOMED,432796004,Standard,4197188.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4198705,Condition,2713,3284,Jittery newborn,SNOMED,51402000,Standard,4198705.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,4200516,Condition,24,32,Lesion of brain,SNOMED,301766008,Standard,4200516.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,4201384,Condition,3111,3638,Finding of infant milestone,SNOMED,302088004,Standard,4201384.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,4202170,Observation,695,1033,Child development status,SNOMED,308402004,Standard,4202170.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4202324,Procedure,126,135,Brain examination,SNOMED,308712007,Standard,4202324.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,4202549,Observation,6778,13805,Suspected brain tumor,SNOMED,315263004,Standard,4202549.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4203274,Observation,65013,84390,Referral to geneticist,SNOMED,308469005,Standard,4203274.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4203739,Observation,97,116,Child development recall,SNOMED,308405002,Standard,4203739.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4207827,Observation,540,669,Newborn regurgitation of food,SNOMED,55331005,Standard,4207827.0,No,Yes,Tana River,Health Center
+CPRD AURUM,4208967,Procedure,39771,63079,Infant weaning education,SNOMED,313209004,Standard,4208967.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4212260,Condition,244073,256036,Term infant,SNOMED,57891003,Standard,4212260.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4212326,Condition,3977,5261,Neonatal Abstinence Syndrome,SNOMED,414819007,Standard,4212326.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,4212884,Condition,70,81,Disorder of cellular component of blood in newborn,SNOMED,414023003,Standard,4212884.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4213100,Condition,85,105,Fetal or neonatal effect of maternal transmission of substance,SNOMED,414248009,Standard,4213100.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,4214804,Procedure,109576,127534,Neonatal hearing test,SNOMED,417491009,Standard,4214804.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,4214961,Condition,88,93,At risk for sudden infant death syndrome,SNOMED,392562007,Standard,4214961.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4215121,Observation,27713,40281,Clinical genetics,SNOMED,394580004,Standard,4215121.0,No,Yes,Tana River,Health Center
+CPRD AURUM,4215807,Condition,23,26,Infective pneumonia acquired prenatally,SNOMED,71926009,Standard,4215807.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4216011,Procedure,87,87,Exploration of brain,SNOMED,39704007,Standard,4216011.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,4216460,Procedure,7722,11847,Infant massage health education,SNOMED,395127001,Standard,4216460.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,4216798,Procedure,9804,13253,Child examination: gait development,SNOMED,395691005,Standard,4216798.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4217242,Observation,164,167,Infant feeding at 4 months,SNOMED,417489001,Standard,4217242.0,No,Yes,Kwale,Health Center
+CPRD AURUM,4221399,Condition,6169,7143,Neonatal jaundice due to delayed conjugation from breast milk inhibitor,SNOMED,82696006,Standard,4221399.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4222294,Observation,3762,3930,Routine care of newborn,SNOMED,8390008,Standard,4222294.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4225723,Condition,104,136,"Fetal or neonatal effect of complication of placenta, cord and/or membranes",SNOMED,84880007,Standard,4225723.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4230161,Observation,954,1588,Infant massage,SNOMED,406147003,Standard,4230161.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4230790,Observation,104,112,Muscular endurance development exercise,SNOMED,88965008,Standard,4230790.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,4231742,Condition,283,489,Infantile posthemorrhagic hydrocephalus,SNOMED,359634001,Standard,4231742.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,4233043,Condition,2118,2774,GDS level 1 - no cognitive decline,SNOMED,407629001,Standard,4233043.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,4233045,Condition,1827,2437,GDS level 5 - moderately severe cognitive decline,SNOMED,407633008,Standard,4233045.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,4233425,Condition,207,248,Acquired periventricular cysts of newborn,SNOMED,359621002,Standard,4233425.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,4235377,Observation,76699,119662,Seen in genetic clinic,SNOMED,440681001,Standard,4235377.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,4236296,Condition,2086,3370,GDS level 6 - severe cognitive decline,SNOMED,407634002,Standard,4236296.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,4236297,Condition,546,961,GDS level 7 - very severe cognitive decline,SNOMED,407635001,Standard,4236297.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,4236309,Condition,40639,46731,Magnetic resonance imaging of brain abnormal,SNOMED,407669000,Standard,4236309.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,4236310,Condition,89316,102445,Computed tomography of brain abnormal,SNOMED,407670004,Standard,4236310.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4236759,Condition,525148,1052865,Infantile eczema,SNOMED,90823000,Standard,4236759.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,4237017,Measurement,49,53,Genetic test,SNOMED,405824009,Standard,4237017.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4237225,Observation,16428,18862,Newborn care service,SNOMED,9153009,Standard,4237225.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,4246451,Condition,5092,12500,Secondary malignant neoplasm of brain,SNOMED,94225005,Standard,4246451.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,4247111,Procedure,36108,92826,Recommendation to caregiver regarding child's development program,SNOMED,408429008,Standard,4247111.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4247112,Procedure,95710,142436,Recommendation to caregiver regarding prevention of sudden infant death syndrome,SNOMED,408433001,Standard,4247112.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,4248666,Observation,3086,3253,CT scan brain declined,SNOMED,408567009,Standard,4248666.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,4249474,Condition,10547,17116,Generalized seborrheic dermatitis of infants,SNOMED,7297005,Standard,4249474.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,4250117,Condition,796,978,GDS level 2 - very mild cognitive decline,SNOMED,407630006,Standard,4250117.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4250118,Condition,2121,2842,GDS level 4 - moderate cognitive decline,SNOMED,407632003,Standard,4250118.0,No,Yes,Tana River,Health Center
+CPRD AURUM,4253307,Condition,1624,2066,GDS level 3 - mild cognitive decline,SNOMED,407631005,Standard,4253307.0,No,Yes,Tana River,Health Center
+CPRD AURUM,4254211,Condition,3365,25484,Infantile autism,SNOMED,408857007,Standard,4254211.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,4256758,Condition,219216,242676,CT scan brain - normal,SNOMED,408568004,Standard,4256758.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,4262290,Procedure,404,1230,Implantation of electronic stimulator in brain,SNOMED,35797001,Standard,4262290.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,4262580,Condition,409,643,Primary sleep apnea of newborn,SNOMED,361208003,Standard,4262580.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,4264629,Condition,41,43,Petechiae in fetus OR newborn,SNOMED,60822000,Standard,4264629.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,4264997,Observation,5673,6443,Infant feeding method - finding,SNOMED,364769008,Standard,4264997.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,4266536,Condition,158,219,Delayed articulatory and language development,SNOMED,62415009,Standard,4266536.0,No,Yes,Tana River,Health Center
+CPRD AURUM,4268774,Condition,99,143,Infantile nephropathic cystinosis,SNOMED,62332007,Standard,4268774.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,4271048,Observation,669,1143,Muscular strength development exercise,SNOMED,6397004,Standard,4271048.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4271779,Observation,3355,3444,Infant feeding at 6 weeks - finding,SNOMED,364771008,Standard,4271779.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,4273764,Condition,44,63,Infantile malignant osteopetrosis,SNOMED,367489004,Standard,4273764.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,4273848,Condition,54,65,Neonatal hypoparathyroidism,SNOMED,63981007,Standard,4273848.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4273850,Condition,191,319,Brain stem herniation,SNOMED,63986002,Standard,4273850.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,4283942,Condition,3274,4940,Bronchopulmonary dysplasia of newborn,SNOMED,67569000,Standard,4283942.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4284267,Procedure,1419,1943,Partial lobectomy of brain,SNOMED,67402009,Standard,4284267.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4297400,Condition,60894,112889,Mild cognitive disorder,SNOMED,386805003,Standard,4297400.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,4300236,Condition,73,95,Neonatal systemic candidiasis,SNOMED,403000003,Standard,4300236.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,4301075,Procedure,575,1520,Cognitive stimulation,SNOMED,386241007,Standard,4301075.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4302027,Condition,516,585,Neonatal dehydration,SNOMED,78812008,Standard,4302027.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,4304938,Condition,2994,3703,Developmental articulation disorder,SNOMED,386701004,Standard,4304938.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4307303,Observation,2016,2816,Early neonatal death,SNOMED,391181005,Standard,4307303.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4309154,Condition,111,206,Anoxic brain damage complication,SNOMED,213208008,Standard,4309154.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4309491,Condition,44,44,Injuries of brain and cranial nerves with injuries of nerves and spinal cord at neck level,SNOMED,213383004,Standard,4309491.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,4313365,Condition,373,1078,Neoplasm of uncertain behavior of brain,SNOMED,94767002,Standard,4313365.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,4316224,Condition,2253,4173,Brain stem infarction,SNOMED,95457000,Standard,4316224.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4316373,Condition,63,90,Neonatal lupus erythematosus,SNOMED,95609003,Standard,4316373.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,4317960,Condition,137,152,Neonatal respiratory failure,SNOMED,95619009,Standard,4317960.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,4319457,Condition,3102,3573,Neonatal apneic attack,SNOMED,95616002,Standard,4319457.0,No,Yes,Tana River,Health Center
+CPRD AURUM,4320940,Condition,138,154,Hyperthermia in newborn,SNOMED,70612009,Standard,4320940.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,4322190,Condition,76,130,Perinatal jaundice due to fetal OR neonatal hepatitis,SNOMED,9936001,Standard,4322190.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,4323283,Procedure,1497,2568,Operation on brain,SNOMED,70586009,Standard,4323283.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,4323896,Procedure,3054,3961,Stereotactic radiosurgery of brain tissue,SNOMED,429584001,Standard,4323896.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,4324051,Measurement,59475,77140,Newborn blood spot screening,SNOMED,428447008,Standard,4324051.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,4324213,Procedure,7363,7910,Computerized cognitive behavioral therapy,SNOMED,429329005,Standard,4324213.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,4326026,Observation,6131,6492,Family history of neoplasm of brain,SNOMED,430090006,Standard,4326026.0,No,Yes,Lamu,Health Center
+CPRD AURUM,4327033,Condition,49,52,Transient neonatal hypertyrosinemia,SNOMED,75387001,Standard,4327033.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,4328150,Procedure,1893,2061,Radioisotope imaging dopamine receptor site of brain,SNOMED,431321004,Standard,4328150.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,4328436,Condition,9419,15154,Gross motor development delay,SNOMED,430099007,Standard,4328436.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,4337102,Condition,189,197,Neonatal hypomagnesemia,SNOMED,87898000,Standard,4337102.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,4344630,Observation,742,974,Infant death,SNOMED,240297000,Standard,4344630.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,4344631,Observation,212,255,Bottle feeding problem in the newborn,SNOMED,240300005,Standard,4344631.0,No,Yes,Tana River,Health Center
+CPRD AURUM,4345345,Condition,158,205,Neonatal alloimmune thrombocytopenia,SNOMED,240305000,Standard,4345345.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,4345684,Observation,15098,18788,Breastfeeding problem in the newborn,SNOMED,240301009,Standard,4345684.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,4345686,Condition,52,55,Late neonatal hypocalcemia,SNOMED,240307008,Standard,4345686.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,4345688,Condition,205,289,Intracerebral hemorrhage in fetus or newborn,SNOMED,240313004,Standard,4345688.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,4346511,Procedure,275,276,Brain isotope studies,SNOMED,241284007,Source,4190387.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,4347422,Condition,3928,4701,Infantile gastroenteritis,SNOMED,240332005,Standard,4347422.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,21185584,Drug,50,52,Hidrasec Infants 10mg granules sachets,dm+d,2.14E+16,Source,40738916.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,21219325,Drug,7475,15426,Dentinox Infant colic drops,dm+d,2.85E+13,Source,40732382.0,No,Yes,Lamu,Health Center
+CPRD AURUM,21220404,Device,74295,228278,"Colief 50,000units/g infant drops",dm+d,8.16E+15,Standard,21220404.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,21238059,Drug,522230,1765161,Gaviscon Infant oral powder sachets,dm+d,3.37E+15,Source,40744098.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,21256231,Drug,28517,51045,Calpol Infant 120mg/5ml oral suspension sugar free,dm+d,6.77E+14,Source,40721107.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,21275437,Drug,2987,4564,Konakion Neonatal 1mg/0.5ml solution for injection ampoules,dm+d,3.88E+15,Source,35785664.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,21294229,Drug,105,119,Narcan Neonatal 40micrograms/2ml solution for injection ampoules,dm+d,4.47E+15,Source,40717976.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,21338411,Device,37,135,Pelican Select ileostomy bag neonatal,dm+d,6.88E+15,Source,45994716.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,21348553,Device,919,5205,Nova Infant ileostomy bag,dm+d,6.42E+15,Source,45992534.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,21371073,Device,112,477,"Confidence Comfort ileostomy bag with filter, overlap and Flexifit wafer, neonatal",dm+d,2.19E+16,Source,46048228.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,21390235,Device,186,3227,PKU Anamix Infant powder,dm+d,1.56E+16,Source,46024264.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,21390357,Device,51,53,OptiChamber Advantage with small mask infants-18 months,dm+d,1.65E+16,Source,46027667.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,21429998,Device,313,1503,Nova Infant ileostomy bag,dm+d,6.42E+15,Source,45992531.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,21440432,Device,32,143,"Pelican Select Afresh ileostomy bag with filter, neonatal",dm+d,6.96E+15,Source,45995116.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,21440980,Device,115,162,DermaSilk facial mask infant,dm+d,1.17E+16,Source,46010443.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,21441022,Device,124,649,"Pouchkins ileostomy bag with Lock 'n' Roll closure, infant",dm+d,1.21E+16,Source,46011699.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,21450606,Device,205,1023,"Pelican Select Afresh ileostomy bag with filter, neonatal",dm+d,6.96E+15,Source,45995112.0,No,Yes,Kwale,Health Center
+CPRD AURUM,21452485,Device,55,62,Fisio Chamber Vision with infant mask 0-3 years,dm+d,2.27E+16,Source,46050734.0,No,Yes,Lamu,Health Center
+CPRD AURUM,35609721,Measurement,43,49,6CIT - Six Item Cognitive Impairment Test,SNOMED,1.09E+15,Standard,35609721.0,No,Yes,Tana River,Health Center
+CPRD AURUM,35609722,Observation,280573,394020,6CIT (Six Item Cognitive Impairment Test) total score,SNOMED,1.09E+15,Standard,35609722.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,35609747,Condition,1019,1079,Automated auditory brainstem response test left ear clear response,SNOMED,1.09E+15,Standard,35609747.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,35609749,Condition,1024,1086,Automated auditory brainstem response test right ear clear response,SNOMED,1.09E+15,Standard,35609749.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,35609750,Condition,79,90,Automated auditory brainstem response test left ear no clear response,SNOMED,1.09E+15,Standard,35609750.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,35609751,Condition,68,78,Automated auditory brainstem response test right ear no clear response,SNOMED,1.09E+15,Standard,35609751.0,No,Yes,Tana River,Health Center
+CPRD AURUM,35624226,Condition,11753,14723,Constantly crying infant,SNOMED,766877008,Standard,35624226.0,No,Yes,Kwale,Health Center
+CPRD AURUM,36674511,Condition,40558,44709,Neonatal clicking hip,SNOMED,778014002,Standard,36674511.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,36675035,Condition,130628,191557,Prematurity of infant,SNOMED,771299009,Standard,36675035.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,36684278,Condition,22,42,Acquired hydrocephalus of newborn,SNOMED,782432008,Standard,36684278.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,36684973,Observation,12434,16592,Montreal cognitive assessment score,SNOMED,4.60E+14,Standard,36684973.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,37019027,Measurement,279,287,Oxford Cognitive Screen,SNOMED,713198003,Standard,37019027.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,37109663,Condition,48,107,Infantile spasm,SNOMED,723437000,Standard,37109663.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,37208615,Observation,74,74,Referral for digital cognitive behavioural therapy for insomnia,SNOMED,1.11E+15,Standard,37208615.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,37392636,Measurement,7919,9140,Genetic screening for disorder,SNOMED,1.01E+15,Standard,37392636.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,37392961,Measurement,130,157,Calreticulin targeted genetic test,SNOMED,1.01E+15,Standard,37392961.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,37392962,Measurement,179,217,BRAF targeted genetic test,SNOMED,1.01E+15,Standard,37392962.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,37394072,Observation,24,25,Screening for cognitive impairment not appropriate,SNOMED,1.03E+15,Standard,37394072.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,37394206,Measurement,64707,90459,Plasma pro-brain natriuretic peptide level,SNOMED,1.03E+15,Standard,37394206.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,37394466,Condition,42,48,"Intraventricular (nontraumatic) haemorrhage, grade 4, of fetus and newborn",SNOMED,1.03E+15,Standard,37394466.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,37394467,Condition,22,42,Acquired hydrocephalus of newborn,SNOMED,1.03E+15,Source,36684278.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,37394668,Observation,55,62,Mild cognitive impairment review invitation first letter,SNOMED,1.04E+15,Standard,37394668.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,37394669,Observation,20,20,Mild cognitive impairment review invitation second letter,SNOMED,1.04E+15,Standard,37394669.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,37396682,Condition,48,58,Developmental language comprehension impairment,SNOMED,716578009,Standard,37396682.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,37396726,Condition,329,440,Cognitive communication disorder,SNOMED,716635007,Standard,37396726.0,No,Yes,Kwale,Health Center
+CPRD AURUM,37396780,Condition,183,219,Early childhood developmental disability,SNOMED,716710007,Standard,37396780.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,37397402,Procedure,134,134,Cognitive behavioral therapy for psychosis,SNOMED,718026005,Standard,37397402.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,37398176,Measurement,62642,69554,Neonatal screening test,SNOMED,9.97E+14,Standard,37398176.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,37398574,Measurement,159502,245851,Brain natriuretic peptide level,SNOMED,1.01E+15,Standard,37398574.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,37398748,Observation,54,76,Mild cognitive impairment review invitation,SNOMED,1.04E+15,Standard,37398748.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,37398808,Measurement,45115,61281,N terminal pro-brain natriuretic peptide level,SNOMED,1.03E+15,Standard,37398808.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,37398837,Observation,36,37,Mild cognitive impairment review declined,SNOMED,1.04E+15,Standard,37398837.0,No,Yes,Lamu,Health Center
+CPRD AURUM,37398899,Procedure,313,493,Mild cognitive impairment review,SNOMED,1.05E+15,Standard,37398899.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,37399125,Measurement,485,526,Cytogenetic study,SNOMED,1.00E+15,Standard,37399125.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,40479650,Procedure,84,84,Placement of depth electrode into brain for electroencephalography,SNOMED,441597006,Standard,40479650.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,40481800,Condition,316,511,Mixed developmental disorder,SNOMED,442059001,Standard,40481800.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,40482251,Condition,315,411,Retardation of physical development,SNOMED,442168001,Standard,40482251.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,40484908,Condition,2894,3861,Imaging of brain abnormal,SNOMED,442731005,Standard,40484908.0,No,Yes,Kwale,Health Center
+CPRD AURUM,40485433,Procedure,6599,15730,Guided self-help cognitive behavioral therapy,SNOMED,444175001,Standard,40485433.0,No,Yes,Lamu,Health Center
+CPRD AURUM,40486120,Condition,186,226,Delay in physiological development,SNOMED,447740001,Standard,40486120.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,40486185,Procedure,1649,2457,Child examination for emotional development,SNOMED,449233006,Standard,40486185.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,40490927,Procedure,94,94,Craniotomy and excision of neoplasm of brain,SNOMED,447107001,Standard,40490927.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,40676666,Device,1023,1152,AeroChamber Plus Flow-Vu Anti-Static with small mask infant 0-18 months,dm+d,3.48E+16,Source,42532700.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,40744098,Drug,522230,1765161,alginic acid 225 MG / Magnesium Alginate 87.5 MG Powder for Oral Solution [Gaviscon Infant] by Forum Products,RxNorm Extension,OMOP4712973,Standard,40744098.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,42532700,Device,1023,1152,AeroChamber Plus Flow-Vu Anti-Static with small mask infant 0-18 months (Trudell Medical UK Ltd),SNOMED,3.48E+16,Standard,42532700.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,42537311,Condition,25,25,Neonatal disorder of endocrine system,SNOMED,736653007,Standard,42537311.0,No,Yes,Tana River,Health Center
+CPRD AURUM,42538170,Observation,7713,9821,Infant of patient deceased,SNOMED,739682007,Standard,42538170.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,42538363,Observation,3934,3982,Anticholinergic Cognitive Burden Scale score,SNOMED,761882000,Standard,42538363.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,42538560,Condition,221,246,Syndrome of infant of mother with gestational diabetes,SNOMED,762291006,Standard,42538560.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,42688438,Device,209,250,Antistatic Space Chamber Plus with small mask (Medical Developments International Ltd),SNOMED,3.42E+16,Standard,42688438.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,42688444,Device,254,283,Antistatic Space Chamber Plus with large mask (Medical Developments International Ltd),SNOMED,3.42E+16,Standard,42688444.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,42688447,Device,409,487,Antistatic Space Chamber Plus Compact with medium mask (Medical Developments International Ltd),SNOMED,3.42E+16,Standard,42688447.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,42690683,Observation,46,49,Emergency department discharge to neonatal intensive care unit,SNOMED,1.07E+15,Standard,42690683.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,43021207,Condition,464,690,Abnormal development of sexuality,SNOMED,472991006,Standard,43021207.0,No,Yes,Lamu,Health Center
+CPRD AURUM,43530903,Condition,788,856,Fetal or neonatal effect of breech delivery,SNOMED,609441001,Standard,43530903.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,44788268,Condition,150,217,Congenital dilated lateral ventricles of brain,SNOMED,1.66E+14,Standard,44788268.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,44788590,Observation,7257,8159,Neonatal check enhanced services administration,SNOMED,1.86E+14,Standard,44788590.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,44788591,Observation,13321,14602,Neonatal check enhanced service completed,SNOMED,1.86E+14,Standard,44788591.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,44788881,Observation,125,176,Seen in child development centre,SNOMED,2.01E+14,Standard,44788881.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,44788979,Condition,44,50,Developmental dysphagia,SNOMED,1.97E+14,Standard,44788979.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,44789247,Observation,730,794,Cognitive behaviour therapy declined,SNOMED,2.00E+14,Standard,44789247.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,44789248,Observation,1120,1281,Did not attend cognitive behaviour therapy,SNOMED,2.00E+14,Standard,44789248.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,44789514,Procedure,16096,17705,Neonatal examination,SNOMED,2.04E+14,Standard,44789514.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,44790274,Procedure,106,121,Cognitive behavioural therapy by unidisciplinary team,SNOMED,2.32E+14,Standard,44790274.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,44790512,Observation,136,154,Number of previous neonatal deaths,SNOMED,2.03E+14,Standard,44790512.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,44791291,Observation,15347,20838,Fast track referral for suspected brain tumour,SNOMED,2.77E+14,Standard,44791291.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,44791295,Observation,60,63,Newborn hearing screening programme incomplete as baby unsettled,SNOMED,2.80E+14,Standard,44791295.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,44791307,Measurement,65017,74942,Newborn hearing screening,SNOMED,2.77E+14,Standard,44791307.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,44791308,Observation,16300,19074,Newborn hearing screening programme outcome,SNOMED,2.77E+14,Standard,44791308.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,44791309,Observation,31425,38085,"Newborn hearing screening programme completed, clear response no follow-up required",SNOMED,2.77E+14,Standard,44791309.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,44791310,Observation,386,418,"Newborn hearing screening programme completed, clear response targeted follow-up required",SNOMED,2.77E+14,Standard,44791310.0,No,Yes,Kwale,Health Center
+CPRD AURUM,44791311,Observation,96,100,Newborn hearing screening programme incomplete as declined screening,SNOMED,2.77E+14,Standard,44791311.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,44791312,Observation,406,442,Newborn hearing screening programme incomplete as did not attend appointment,SNOMED,2.77E+14,Standard,44791312.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,44791758,Measurement,1546,2222,Child developmental screening,SNOMED,3.02E+14,Standard,44791758.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,44791772,Observation,53,64,Nutrition problem in infant,SNOMED,3.04E+14,Standard,44791772.0,No,Yes,Kwale,Health Center
+CPRD AURUM,44791786,Observation,10116,12790,Newborn blood spot screening status,SNOMED,3.02E+14,Standard,44791786.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,44791806,Measurement,90,110,Child health screening for fine motor development,SNOMED,3.01E+14,Standard,44791806.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,44791807,Measurement,185,219,Child health screening for gross motor development,SNOMED,3.01E+14,Standard,44791807.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,44791836,Condition,1421,1699,"Newborn blood spot screening programme, carrier of other haemoglobin type",SNOMED,3.03E+14,Standard,44791836.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,44791885,Observation,503,1565,Developmental surveillance,SNOMED,3.00E+14,Standard,44791885.0,No,Yes,Tana River,Health Center
+CPRD AURUM,44792068,Measurement,21,26,Child health screening for speech and language development delay,SNOMED,3.21E+14,Standard,44792068.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,44792069,Measurement,4017,4745,Child health screening of social behaviour and play development,SNOMED,3.21E+14,Standard,44792069.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,44792461,Observation,232,238,Newborn hearing screening programme contraindicated,SNOMED,2.80E+14,Standard,44792461.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,44792481,Procedure,64,67,Neonatal feeding education,SNOMED,3.53E+14,Standard,44792481.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,44792900,Observation,1121,1276,"Newborn hearing screening programme completed, no clear response in one ear, follow-up required",SNOMED,2.77E+14,Standard,44792900.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,44792915,Observation,701,771,"Newborn hearing screening programme completed, no clear response in both ears follow-up required",SNOMED,2.77E+14,Standard,44792915.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,44793350,Observation,442,470,Seen in fast track suspected brain tumour clinic,SNOMED,3.82E+14,Standard,44793350.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,44793462,Observation,2603,3343,Preterm infant status,SNOMED,3.84E+14,Standard,44793462.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,44793463,Observation,77,78,"Newborn blood spot screening programme, phenylketonuria repeat screening with further sample required",SNOMED,3.84E+14,Standard,44793463.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,44793464,Observation,226,234,"Newborn blood spot screening programme, cystic fibrosis repeat screening with further sample required",SNOMED,3.84E+14,Standard,44793464.0,No,Yes,Tana River,Health Center
+CPRD AURUM,44793465,Observation,31,31,"Newborn blood spot screening programme, sickle cell repeat screening with further sample required",SNOMED,3.84E+14,Standard,44793465.0,No,Yes,Kwale,Health Center
+CPRD AURUM,44793466,Observation,110,111,"Newborn blood spot screening programme, congenital hypothyroidism repeat screening with further sample required",SNOMED,3.84E+14,Standard,44793466.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,44793467,Observation,54,56,"Newborn blood spot screening programme, medium chain acyl-coenzyme A dehydrogenase deficiency repeat screening with further sample required",SNOMED,3.84E+14,Standard,44793467.0,No,Yes,Kwale,Health Center
+CPRD AURUM,44793468,Observation,226,230,"Newborn blood spot screening programme, sickle cell not suspected and other disorders follow up required",SNOMED,3.84E+14,Standard,44793468.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,44793469,Observation,226,231,"Newborn blood spot screening programme, phenylketonuria not suspected and other disorders follow up required",SNOMED,3.84E+14,Standard,44793469.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,44793470,Observation,235,240,"Newborn blood spot screening programme, cystic fibrosis not suspected and other disorders follow up required",SNOMED,3.84E+14,Standard,44793470.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,44793471,Observation,577,591,"Newborn blood spot screening programme, congenital hypothyroidism not suspected and other disorders follow up required",SNOMED,3.84E+14,Standard,44793471.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,44793472,Observation,226,230,"Newborn blood spot screening programme, medium chain acyl-coenzyme A dehydrogenase deficiency not suspected and other disorders follow up required",SNOMED,3.84E+14,Standard,44793472.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,44793478,Observation,414,567,Antenatal screening shows homozygote or compound heterozygote of no genetic significance,SNOMED,3.85E+14,Standard,44793478.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,44793498,Observation,106,117,Antenatal screening shows homozygote or compound heterozygote of genetic significance,SNOMED,3.85E+14,Standard,44793498.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,44793562,Observation,22,22,"Antenatal screening, partner tested and no genetic risk identified",SNOMED,3.85E+14,Standard,44793562.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,44793590,Observation,20,22,Monitoring of pressure in tissue of brain,SNOMED,3.77E+14,Standard,44793590.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,44795925,Condition,90,189,"[D]Nutritional, metabolic or developmental symptoms NOS",SNOMED,4.09E+14,Source,443359.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,44796267,Measurement,93,106,[V]Screening for other specified mental disorder or developmental handicap,SNOMED,4.16E+14,Source,4102738.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,44796943,Measurement,1422,2073,[V]Screening for early childhood developmental handicap,SNOMED,4.29E+14,Source,44791758.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,44797205,Observation,198,208,[V]Health supervision and care of other healthy infant and child,SNOMED,4.26E+14,Source,46286595.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,44799587,Observation,60,63,[V]Care of other healthy infant,SNOMED,4.52E+14,Source,46286595.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,44801955,Observation,6209,12532,Newborn blood spot specimen received,SNOMED,5.10E+14,Standard,44801955.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,44802090,Observation,436,518,Consent given for newborn hearing screening programme,SNOMED,5.12E+14,Standard,44802090.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,44802177,Observation,1931,2038,Newborn blood spot screening programme - not screened for or screening incomplete,SNOMED,5.25E+14,Standard,44802177.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,44802178,Observation,48,48,Newborn blood spot screening programme - not suspected and other disorders follow up required,SNOMED,5.25E+14,Standard,44802178.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,44802380,Condition,38,38,Infant dummy used after 9 months of age,SNOMED,4.94E+14,Standard,44802380.0,No,Yes,Tana River,Health Center
+CPRD AURUM,44802490,Procedure,1714,3285,Advice to carer regarding management of infantile colic,SNOMED,4.95E+14,Standard,44802490.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,44803038,Observation,20163,23879,Referral for cognitive behavioural therapy,SNOMED,5.19E+14,Standard,44803038.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,44803208,Observation,691,791,Child development assessment by questionnaire,SNOMED,3.61E+14,Standard,44803208.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,44804176,Observation,832,1511,Infant feeding review,SNOMED,7.11E+14,Standard,44804176.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,44804252,Observation,216,263,Infant feeding antenatal checklist completed,SNOMED,7.11E+14,Standard,44804252.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,44804259,Observation,15512,18941,Addenbrooke's cognitive examination revised - score,SNOMED,7.11E+14,Standard,44804259.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,44804260,Observation,23,29,Addenbrooke's cognitive examination revised - visuospatial subscore,SNOMED,7.11E+14,Standard,44804260.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,44804261,Observation,23,29,Addenbrooke's cognitive examination revised - language subscore,SNOMED,7.11E+14,Standard,44804261.0,No,Yes,Lamu,Health Center
+CPRD AURUM,44804331,Observation,31,34,Genetics,SNOMED,7.25E+14,Standard,44804331.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,44804870,Condition,1846,2529,Motor developmental delay,SNOMED,7.60E+14,Standard,44804870.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,44805009,Observation,383,470,Infant feeding postnatal checklist completed,SNOMED,7.84E+14,Standard,44805009.0,No,Yes,Tana River,Health Center
+CPRD AURUM,44805222,Procedure,88,89,Insertion of programmable cystoperitoneal shunt of brain,SNOMED,7.85E+14,Standard,44805222.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,44805260,Condition,769,1215,Neurodevelopmental delay,SNOMED,7.51E+14,Standard,44805260.0,No,Yes,Lamu,Health Center
+CPRD AURUM,44805264,Condition,375,503,Automated auditory brainstem response test clear response,SNOMED,7.52E+14,Standard,44805264.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,44805279,Observation,11003,13236,Referral to child development centre,SNOMED,7.62E+14,Standard,44805279.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,44805348,Observation,27,47,Automated auditory brainstem response test not done,SNOMED,7.52E+14,Standard,44805348.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,44805451,Condition,57,67,Automated auditory brainstem response test no clear response,SNOMED,7.53E+14,Standard,44805451.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,44805723,Observation,58,58,Newborn blood spot screening programme incomplete as outside of area of current screening coverage,SNOMED,7.77E+14,Standard,44805723.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,44806182,Procedure,198,204,Rehabilitation for brain injury,SNOMED,7.91E+14,Standard,44806182.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,44806246,Observation,122,199,On Care Of Next Infant programme,SNOMED,8.11E+14,Standard,44806246.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,44806911,Observation,757,807,Provision of infant weaning leaflet,SNOMED,8.23E+14,Standard,44806911.0,No,Yes,Kilifi,Private Clinic
+CPRD AURUM,44808666,Measurement,766,831,Montreal cognitive assessment,SNOMED,8.59E+14,Standard,44808666.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,44808668,Observation,12434,16592,Montreal cognitive assessment score,SNOMED,8.59E+14,Source,36684973.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,44808677,Procedure,71,75,Group cognitive behavioural therapy,SNOMED,8.60E+14,Standard,44808677.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,44808878,Observation,26,80,Developmental disabilities - children's global assessment scale score,SNOMED,8.61E+14,Standard,44808878.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,44810433,Observation,30,41,Eligible for Care of Next Infant programme,SNOMED,8.88E+14,Standard,44810433.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,44810467,Condition,63,65,Speech and language developmental delay,SNOMED,8.98E+14,Standard,44810467.0,No,Yes,Tana River,Health Center
+CPRD AURUM,44810477,Observation,3573,3685,Completion of newborn blood spot screening card,SNOMED,8.98E+14,Standard,44810477.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,44811996,Observation,567,589,Newborn hearing screening not done,SNOMED,9.09E+14,Standard,44811996.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,44812789,Condition,106,117,[V]Healthy liveborn infants according to type of birth,SNOMED,4.12E+14,Source,4092289.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,44813024,Observation,2143,3223,Newborn blood spot screening programme - repeat screening with further sample required,SNOMED,5.25E+14,Standard,44813024.0,No,Yes,Kilifi,County Hospital
+CPRD AURUM,44813765,Observation,450,681,History of developmental disorder,SNOMED,5.13E+14,Standard,44813765.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,44813796,Measurement,93,105,Developmental behaviour checklist,SNOMED,8.59E+14,Standard,44813796.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,44814081,Observation,133,164,Infant weaning intervention offered,SNOMED,7.94E+14,Standard,44814081.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,45765517,Procedure,49,90,Cognitive rehabilitation therapy,SNOMED,702474001,Standard,45765517.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,45765628,Condition,245,402,Congenital brain aplasia,SNOMED,702611008,Standard,45765628.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,45765647,Condition,1862,4061,Acquired brain injury,SNOMED,702632000,Source,4133611.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,45765899,Condition,3441,4615,Moderate cognitive impairment,SNOMED,702955000,Standard,45765899.0,No,Yes,Tana River,Health Center
+CPRD AURUM,45765900,Condition,2007,2543,Severe cognitive impairment,SNOMED,702956004,Standard,45765900.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,45766339,Condition,2136,2770,Developmental delay in fine motor function,SNOMED,703477003,Standard,45766339.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,45766340,Condition,1424,1898,Developmental delay in social skills,SNOMED,703478008,Standard,45766340.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,45766563,Procedure,46,49,Infant Behavioral Assessment and Intervention Program,SNOMED,703749006,Standard,45766563.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,45767018,Condition,101,177,Impairment of child development,SNOMED,704304000,Standard,45767018.0,No,Yes,Mombasa,Mission Hospital
+CPRD AURUM,45770563,Observation,105,109,Imaging of brain requested,SNOMED,9.31E+14,Standard,45770563.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,45770709,Observation,218,253,Seen by brain injury link worker,SNOMED,9.35E+14,Standard,45770709.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,45770735,Condition,110,163,Disorder of muscle tone of newborn,SNOMED,9.35E+14,Standard,45770735.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,45771097,Observation,112,116,No neurodevelopmental condition detected on examination,SNOMED,700370003,Standard,45771097.0,No,Yes,Tana River,Health Center
+CPRD AURUM,45773568,Condition,24,27,Structural developmental anomalies of neurenteric canal,SNOMED,2.49E+14,Standard,45773568.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,45992531,Device,313,1503,Nova Infant ileostomy bag 818-00 Starter hole 0mm-40mm Clear (Dansac Ltd),SNOMED,6.42E+15,Standard,45992531.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,45992534,Device,919,5205,Nova Infant ileostomy bag 818-10 Starter hole 10mm-40mm Clear (Dansac Ltd),SNOMED,6.42E+15,Standard,45992534.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,45994716,Device,37,135,Pelican Select ileostomy bag neonatal 101605 Cut to fit 10mm-50mm Clear (Pelican Healthcare Ltd),SNOMED,6.88E+15,Standard,45994716.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,45995112,Device,205,1023,"Pelican Select Afresh ileostomy bag with filter, neonatal 112703 Cut to fit 0mm-40mm Clear (Pelican Healthcare Ltd)",SNOMED,6.96E+15,Standard,45995112.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,45995116,Device,32,143,"Pelican Select Afresh ileostomy bag with filter, neonatal 112704 Cut to fit 0mm-40mm Opaque (Pelican Healthcare Ltd)",SNOMED,6.96E+15,Standard,45995116.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,46010443,Device,115,162,DermaSilk facial mask infant (Espere Healthcare Ltd),SNOMED,1.17E+16,Standard,46010443.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,46011699,Device,124,649,"Pouchkins ileostomy bag with Lock 'n' Roll closure, infant 3796 Cut to fit 0mm-38mm Clear (Hollister Ltd)",SNOMED,1.21E+16,Standard,46011699.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,46024264,Device,186,3227,PKU Anamix Infant powder (Nutricia Ltd),SNOMED,1.56E+16,Standard,46024264.0,No,Yes,Tana River,Mission Hospital
+CPRD AURUM,46027667,Device,51,53,OptiChamber Advantage with small mask infants-18 months (Respironics (UK) Ltd),SNOMED,1.65E+16,Standard,46027667.0,No,Yes,Kwale,County Hospital
+CPRD AURUM,46048228,Device,112,477,"Confidence Comfort ileostomy bag with filter, overlap and Flexifit wafer, neonatal CFN8 Starter hole 8mm-40mm Beige (Salts Healthcare)",SNOMED,2.19E+16,Standard,46048228.0,No,Yes,Lamu,Health Center
+CPRD AURUM,46050734,Device,55,62,Fisio Chamber Vision with infant mask 0-3 years (Mediplus Ltd),SNOMED,2.27E+16,Standard,46050734.0,No,Yes,Tana River,Private Clinic
+CPRD AURUM,46057382,Device,2955,3919,Space Chamber Plus Compact with medium mask (Medical Developments International Ltd),SNOMED,2.43E+16,Standard,46057382.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,46271045,Condition,46,87,Neurocognitive disorder,SNOMED,709073001,Standard,46271045.0,No,Yes,Kwale,Private Clinic
+CPRD AURUM,46284320,Condition,104,119,Neonatal sepsis due to Staphylococcus,SNOMED,9.44E+14,Standard,46284320.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,46284789,Condition,82,121,Intellectual development disorder of unknown aetiology,SNOMED,9.55E+14,Standard,46284789.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,46284818,Observation,330,665,Deep brain stimulator in situ,SNOMED,9.55E+14,Standard,46284818.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,46285091,Observation,1102,1139,Child development 8-12 months assessment,SNOMED,9.63E+14,Standard,46285091.0,No,Yes,Kilifi,Mission Hospital
+CPRD AURUM,46285983,Measurement,138,241,HoNOS (Health of the Nation Outcome Scales) for working age adults rating scale 4 - cognitive problems,SNOMED,9.80E+14,Standard,46285983.0,No,Yes,Mombasa,Health Center
+CPRD AURUM,46285995,Observation,434,1064,HoNOS (Health of the Nation Outcome Scales) for working age adults rating scale 4 score - cognitive problems,SNOMED,9.80E+14,Standard,46285995.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,46286424,Observation,3207,3443,"Newborn and Infant Physical Examination Screening Programme, hip examination done, no abnormality and no risk factor",SNOMED,9.86E+14,Standard,46286424.0,No,Yes,Taita Taveta,County Hospital
+CPRD AURUM,46286613,Observation,20,20,"Newborn and Infant Physical Examination Screening Programme, hip examination done, right abnormality suspected and no risk factor",SNOMED,9.88E+14,Standard,46286613.0,No,Yes,Mombasa,County Hospital
+CPRD AURUM,46286614,Observation,34,37,"Newborn and Infant Physical Examination Screening Programme, hip examination done, bilateral abnormality suspected and no risk factor",SNOMED,9.88E+14,Standard,46286614.0,No,Yes,Tana River,County Hospital
+CPRD AURUM,46286620,Observation,30,31,"Newborn and Infant Physical Examination Screening Programme, hip examination done, left abnormality suspected and no risk factor",SNOMED,9.88E+14,Standard,46286620.0,No,Yes,Taita Taveta,Health Center
+CPRD AURUM,46286624,Observation,199,200,"Newborn and Infant Physical Examination Screening Programme, heart examination status",SNOMED,9.88E+14,Standard,46286624.0,No,Yes,Taita Taveta,Mission Hospital
+CPRD AURUM,46286625,Observation,302,303,"Newborn and Infant Physical Examination Screening Programme, eye examination status",SNOMED,9.88E+14,Standard,46286625.0,No,Yes,Kwale,Mission Hospital
+CPRD AURUM,46286626,Observation,160,160,"Newborn and Infant Physical Examination Screening Programme, testis examination status",SNOMED,9.88E+14,Standard,46286626.0,No,Yes,Mombasa,Private Clinic
+CPRD AURUM,46286628,Observation,3147,3330,"Newborn and Infant Physical Examination Screening Programme, heart examination done, no abnormality and no risk factor",SNOMED,9.89E+14,Standard,46286628.0,No,Yes,Kwale,Health Center
+CPRD AURUM,46286629,Observation,72,80,"Newborn and Infant Physical Examination Screening Programme, heart examination done, no abnormality with risk factor",SNOMED,9.89E+14,Standard,46286629.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,46286631,Observation,52,54,"Newborn and Infant Physical Examination Screening Programme, heart examination done, abnormality suspected and no risk factor",SNOMED,9.89E+14,Standard,46286631.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,46286651,Observation,1710,1791,"Newborn and Infant Physical Examination Screening Programme, testis examination done, no abnormality",SNOMED,9.89E+14,Standard,46286651.0,No,Yes,Taita Taveta,Private Clinic
+CPRD AURUM,46286654,Observation,20,21,"Newborn and Infant Physical Examination Screening Programme, testis examination done, left abnormality suspected",SNOMED,9.89E+14,Standard,46286654.0,No,Yes,Lamu,Private Clinic
+CPRD AURUM,46286655,Observation,64,67,"Newborn and Infant Physical Examination Screening Programme, eye examination declined",SNOMED,9.89E+14,Standard,46286655.0,No,Yes,Lamu,Health Center
+CPRD AURUM,46286657,Observation,3279,3476,"Newborn and Infant Physical Examination Screening Programme, eye examination done, no abnormality and no risk factor",SNOMED,9.89E+14,Standard,46286657.0,No,Yes,Tana River,Health Center
+CPRD AURUM,46286658,Observation,34,35,"Newborn and Infant Physical Examination Screening Programme, eye examination done, no abnormality with risk factor",SNOMED,9.89E+14,Standard,46286658.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,46286867,Observation,713,734,"Newborn and Infant Physical Examination Screening Programme, hip examination status",SNOMED,9.85E+14,Standard,46286867.0,No,Yes,Lamu,Mission Hospital
+CPRD AURUM,46286869,Observation,284,300,"Newborn and Infant Physical Examination Screening Programme, hip examination done, no abnormality with risk factor",SNOMED,9.86E+14,Standard,46286869.0,No,Yes,Lamu,County Hospital
+CPRD AURUM,46287153,Condition,434,491,Neonatal sepsis due to Streptococcus,SNOMED,9.44E+14,Standard,46287153.0,No,Yes,Kilifi,Health Center
+CPRD AURUM,46287274,Observation,832,836,"Newborn and Infant Physical Examination Screening Programme, testis examination not done",SNOMED,9.89E+14,Standard,46287274.0,No,Yes,Kilifi,Health Center
